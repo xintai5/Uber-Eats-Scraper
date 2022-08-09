@@ -7,6 +7,15 @@ Enter the name of a city (i.e. Toronto), followed by the province abbreiation (O
 The output of the file is as follows:
 
 ```json
+# Uber-Eats-Scraper
+Python-based data scraper to gather information on Uber Eats restaurants in a given Canadian City
+
+
+Enter the name of a city (i.e. Toronto), followed by the province abbreiation (ON).
+
+The output of the file is as follows:
+
+```json
 {
     "McDonald's (Elgin St)": [
         {
@@ -30,4 +39,5 @@ The output of the file is as follows:
         }
     ]
 }
+```
 ```
